@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github page](https://github.com/Hakizimana-Clement/NFT-preview-card-component)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-nftpreviewcardcomponent-using-flexbox-wKiDUJ-uSy)
 - Live Site URL: [Live Site at Github](https://hakizimana-clement.github.io/NFT-preview-card-component/)
 
 ## My process
